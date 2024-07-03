@@ -149,6 +149,9 @@ ul.styled li {
 #about-content img{
     width: 70%;
 }
+#team-section img{
+    width: 240px;
+}
 
 
 /* Contact Section */
